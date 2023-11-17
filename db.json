@@ -1,7 +1,6 @@
 {
     "users": [
         {
-
         	"id": 1,
         	"name": "Artem",
         	"balance": 999
@@ -11,6 +10,16 @@
             "name": "Denis",
             "balance": 999
         }
-        
+    ],
+    "products": [
+    	{
+    		"kovbasa": 100,
+    		"pomidory": 500,
+    		"telefonu": 200
+    	},
+    	{
+    		"igru":200,
+    		"pc":50
+    	}
     ]
 }
