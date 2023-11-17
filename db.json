@@ -1,9 +1,16 @@
 {
     "users": [
         {
+
         	"id": 1,
         	"name": "Artem",
         	"balance": 999
+        },
+        {
+            "id": 1,
+            "name": "Denis",
+            "balance": 999
         }
+        
     ]
 }
