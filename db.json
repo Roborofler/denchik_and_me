@@ -12,5 +12,17 @@
             "balance": 999
         }
         
-    ]
+    ],
+    "products" : [{
+        "arbuz": 45,
+        "ogurek": 50,
+        "vaza": 100
+    },
+    {
+      "igra":200,
+      "pc":50
+    }
+        
+
+]
 }
